@@ -9,7 +9,7 @@
 
 <h2>📄 Certifications </h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.credly.com/badges/1159bb6c-5c20-4194-8b7b-67c9ff40a666/public_url)
+- [Microsoft Certified: Azure Fundamentals](https://www.credly.com/badges/1159bb6c-5c20-4194-8b7b-67c9ff40a666/public_url)
 - [Microsoft Certified: Azure Data Fundamentals](https://learn.microsoft.com/en-us/users/oladapoonayemi-0291/credentials/97759c4a5414be32)
 
 <h2> 🤳 Connect with me:</h2>
