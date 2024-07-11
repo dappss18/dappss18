@@ -1,4 +1,5 @@
-<h1>Hi, I'm Daps! <br/><a href="https://github.com/dappss18">Cloud</a>, <a href="https://www.linkedin.com/in/oladapo-onayemi-8a882022/">Devops</a>& <a href="https://www.linkedin.com/in/oladapo-onayemi-8a882022/">Site Reliability Engineer</a></h1>
+<h1>Hi, I'm Daps! 
+  <br/><a href="https://github.com/dappss18">Cloud</a>, <a href="https://www.linkedin.com/in/oladapo-onayemi-8a882022/">Devops</a> & <a href="https://www.linkedin.com/in/oladapo-onayemi-8a882022/">Site Reliability Engineer</a></h1>
 
 <h2>👨‍💻 Cloud Projects:</h2>
 
