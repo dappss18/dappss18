@@ -23,7 +23,7 @@
 
 [twitter]: https://twitter.com/dnemmy
 [instagram]: https://www.instagram.com/dnemmy/
-[linkedin]: https://linkedin.com/in/joshmadakor
+[linkedin]: https://www.linkedin.com/in/oladapo-onayemi-8a882022/
 
 <!--
 **dappss18/dappss18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub 
