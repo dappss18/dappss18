@@ -12,6 +12,7 @@
 
 - [Microsoft Certified: Azure Fundamentals](https://www.credly.com/badges/1159bb6c-5c20-4194-8b7b-67c9ff40a666/public_url)
 - [Microsoft Certified: Azure Data Fundamentals](https://learn.microsoft.com/en-us/users/oladapoonayemi-0291/credentials/97759c4a5414be32)
+- [Microsoft Certified: Azure AI Fundamentals](https://learn.microsoft.com/en-gb/users/oladapoonayemi-0291/credentials/a0376d6df22a173b?ref=https%3A%2F%2Fwww.linkedin.com%2F)
 
 <h2> 🤳 Connect with me:</h2>
 
