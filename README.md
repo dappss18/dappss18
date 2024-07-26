@@ -3,8 +3,8 @@
 
 <h2>👨‍💻 Cloud Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/dappss18/Algorithms-Practice)
+- <b>Host a Website on Amazon S3</b>
+  - [Host a Website on Amazon S3](https://www.notion.so/Host-a-Website-on-Amazon-S3-48dae207c4ca4bdc9fac06b2b12898cf?pvs=4)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/dappss18/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 
